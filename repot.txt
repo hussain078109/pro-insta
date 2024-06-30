@@ -6,3 +6,5 @@ git-git-&@#report
 reports tiktokv4
 git-git-&v4report
 
+AFRITON
+\x1b[38;5;231m
