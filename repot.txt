@@ -8,3 +8,6 @@ git-git-&v4report
 
 AFRITON
 \x1b[38;5;231m
+test
+netfoloing
+7/5
