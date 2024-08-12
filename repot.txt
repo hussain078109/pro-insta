@@ -6,6 +6,10 @@ git-git-&@#report
 reports tiktokv4
 git-git-&v4report
 
+reports tiktokv5
+git-git-&v5report
+
+
 AFRITON
 \x1b[38;5;231m
 test
