@@ -1,5 +1,5 @@
 US_SB-6189792841- CPH2185 
-
+6189792841-interaction  CPH2185 
 Invalid data type
 
 reports tiktok video
@@ -49,3 +49,5 @@ US_SB-1654174646/@YEMEN_59 SM-G998U  دائمي مع التحديث
 US_SB-7871298552/@F_XX6  Infinix X676C  بدون تحديث
 5294666522/@ssn5x  SM-S908E بدون تحديث
 US_SB-6586413650/@Ndoshaa212 NX669J  دائمي مع التحديث
+
+6586413650-interaction  NX669J دائمي تفاعل
