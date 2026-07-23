@@ -1,4 +1,4 @@
-""jafa-x-gnarly-x-bogus-ipa.vercel.app""
+""jafa-x-gnarly-x-bogus-ipa-main.vercel.app""
 US_SB-6189792841- CPH2185 
 6189792841-interaction  CPH2185  8FNC1JM
 Invalid data type
